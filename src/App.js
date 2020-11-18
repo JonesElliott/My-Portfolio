@@ -1,8 +1,10 @@
 import Navbar from './components/nav/navbar';
 import Header from './components/header/header';
-import Work from './components/work/work';
+import { Work, Projects } from './components/work/work';
+// import Projects from './components/projects/projects';
 import logo from './logo.svg';
 import './App.css';
+// import Projects from './components/work/work';
 
 let json = require('./assets/projects.json');
 
@@ -12,25 +14,17 @@ function App() {
     data: json
   }
 
+  console.log(projects.data);
+
   return (
     <div className="App">
       <Navbar />
       <Header />
-      <Work projects={projects}/>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+      <Work>
+        {
+          projects.data.map(data => <Projects key={projects.data.id} data={data} />)
+        }
+      </Work>
     </div>
   );
 }
