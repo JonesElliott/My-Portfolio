@@ -5,7 +5,7 @@ import './work.css';
 function Work() {
     return (
       <div className="work-container">
-          <h2>Work</h2>
+          <h1>Work</h1>
           <div>
             <Projects />
           </div>

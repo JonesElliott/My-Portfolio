@@ -1,0 +1,44 @@
+[
+    {
+        "Title": "Nom-Burger",
+        "Descriptioon": "Burger eating app created with Node, Express, MySQL, and Handlebars.",
+        "img": "../../assets/img/img.png",
+        "deployedLink": "https://nameless-savannah-00585.herokuapp.com/",
+        "repoLink": "https://github.com/JonesElliott/Nom-Burger"
+    },
+    {
+        "Title": "Memory Game",
+        "Descriptioon": "Memory Game built using Node, Express, MySQL, and Handlebars.",
+        "img": "../../assets/img/img.png",
+        "deployedLink": "https://boiling-tor-76152.herokuapp.com/",
+        "repoLink": "https://github.com/JonesElliott/Memory-Game"
+    },
+    {
+        "Title": "Note Taker",
+        "Descriptioon": "Note taking application produced with Node & Express.",
+        "img": "../../assets/img/img.png",
+        "deployedLink": "https://tranquil-atoll-93014.herokuapp.com/",
+        "repoLink": "https://github.com/JonesElliott/Note-Taker"
+    }
+    {
+        "Title": "Weather Dashboard",
+        "Descriptioon": "Weather dashboard utilizing OpenWeather API & jQuery to search by city.",
+        "img": "../../assets/img/img.png",
+        "deployedLink": "https://joneselliott.github.io/Weather-Dashboard/",
+        "repoLink": "https://github.com/JonesElliott/Weather-Dashboard"
+    }
+    {
+        "Title": "Day Planner",
+        "Descriptioon": "Day Planner built with jQuery & utilizing the Moment.js library for time information.",
+        "img": "../../assets/img/img.png",
+        "deployedLink": "https://joneselliott.github.io/Day-Planner/",
+        "repoLink": "https://github.com/JonesElliott/Day-Planner"
+    }
+    {
+        "Title": "Workout Tracker",
+        "Descriptioon": "A fitness tracking application utilizing Express & MongoDB with Mongoose.",
+        "img": "../../assets/img/img.png",
+        "deployedLink": "https://murmuring-spire-59899.herokuapp.com/",
+        "repoLink": "https://github.com/JonesElliott/Workout-Tracker"
+    }
+]
