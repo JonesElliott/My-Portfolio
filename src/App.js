@@ -4,12 +4,19 @@ import Work from './components/work/work';
 import logo from './logo.svg';
 import './App.css';
 
+let json = require('./assets/projects.json');
+
 function App() {
+
+  const projects = {
+    data: json
+  }
+
   return (
     <div className="App">
       <Navbar />
       <Header />
-      <Work />
+      <Work projects={projects}/>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

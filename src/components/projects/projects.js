@@ -1,10 +1,10 @@
 import React from 'react';
 // import './titles.css';
 
-function Projects() {
+function Projects(props) {
     return (
       <div className="project-container">
-          <h4>Project Title</h4>
+          <h4>{props.title}</h4>
       </div>
     );
   }
