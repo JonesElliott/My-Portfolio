@@ -1,5 +1,6 @@
 import Navbar from './components/nav/navbar';
 import Header from './components/header/header';
+import Work from './components/work/work';
 import logo from './logo.svg';
 import './App.css';
 
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Header />
+      <Work />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

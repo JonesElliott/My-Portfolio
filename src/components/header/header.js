@@ -1,5 +1,5 @@
 import React from 'react';
-import Titles from '../titles/titles';
+import Titles from '../title/title';
 import './header.css';
 
 function Header() {
