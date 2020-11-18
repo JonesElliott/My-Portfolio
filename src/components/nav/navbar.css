@@ -1,0 +1,14 @@
+ul {
+    padding-left: 75px;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 75px;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+}
