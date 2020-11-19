@@ -2,7 +2,6 @@ import Navbar from './components/nav/navbar';
 import Header from './components/header/header';
 import { Work, Projects } from './components/work/work';
 // import Projects from './components/projects/projects';
-import logo from './logo.svg';
 import './App.css';
 // import Projects from './components/work/work';
 
