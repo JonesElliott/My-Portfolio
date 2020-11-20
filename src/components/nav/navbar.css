@@ -1,10 +1,14 @@
 nav.sticky {
-    position: -webkit-sticky;
-    position: sticky;
+    position: fixed;
+    /* position: -webkit-sticky; */
+    /* z-index: 0; */
+    /* position: sticky; */
+    margin-top: 25vh;
     top: 0;
     /* background-color: white; */
     padding: 45px;
     font-size: 20px;
+    float: left;
 }
 
 .ul-nav {
@@ -12,9 +16,9 @@ nav.sticky {
 }
 
 .li-nav {
-    display: inline;
+    /* display: inline; */
     list-style-type: none;
-    padding-right: 75px;
+    padding-bottom: 75px;
     font-size: larger;
 }
 
