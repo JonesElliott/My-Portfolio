@@ -5,7 +5,7 @@ import './work.css';
 export function Work({ children }) {
   return (
     <div className="work-container" id="work">
-      <h2 className="work-title">Work</h2>
+      <h1 className="work-title">Projects</h1>
       <ul className="list-group">{children}</ul>
     </div>
   );

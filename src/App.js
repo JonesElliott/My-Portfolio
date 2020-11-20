@@ -1,6 +1,7 @@
 import Navbar from './components/nav/navbar';
 import Header from './components/header/header';
 import { Work, Projects } from './components/work/work';
+import Contact from './components/contact/contact';
 // import Projects from './components/projects/projects';
 import './App.css';
 // import Projects from './components/work/work';
@@ -24,6 +25,7 @@ function App() {
           projects.data.map(data => <Projects key={projects.data.id} data={data} />)
         }
       </Work>
+      <Contact />
     </div>
   );
 }
