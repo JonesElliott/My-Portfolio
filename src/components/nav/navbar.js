@@ -4,10 +4,10 @@ import './navbar.css';
 function Navbar() {
     return (
       <nav className="sticky">
-          <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Work</a></li>
-              <li><a href="#">Contact</a></li>
+          <ul className="ul-nav">
+              <li className="li-nav"><a href="#">Home</a></li>
+              <li className="li-nav"><a href="#work">Work</a></li>
+              <li className="li-nav"><a href="#">Contact</a></li>
           </ul>
       </nav>
     );

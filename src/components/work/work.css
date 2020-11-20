@@ -1,4 +1,17 @@
 .work-container {
-    /* margin-top: 70vh; */
-    /* padding: 50px; */
+    margin-top: 50vh;
+}
+
+.work-title {
+    margin-bottom: 10%;
+}
+
+.list-group {
+
+}
+
+.list-group-item {
+    list-style-type: none;
+    margin-bottom: 10%;
+    padding-right: 40px; /*  This is to offeset whatever is giving this a padding-inline-start value of 40px  */
 }
