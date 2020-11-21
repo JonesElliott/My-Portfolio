@@ -1,15 +1,5 @@
 import React from "react";
-// import { Container, Row, Col } from "../Grid";
 import './contact.css';
-
-// export function Work({ children }) {
-//   return (
-//     <div className="work-container" id="work">
-//       <h2 className="work-title">Work</h2>
-//       <ul className="list-group">{children}</ul>
-//     </div>
-//   );
-// }
 
 export default function Contact() { 
 

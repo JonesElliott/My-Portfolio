@@ -12,7 +12,7 @@
         "title": "Memory Game",
         "description": "Memory Game built using Node, Express, MySQL, and Handlebars.",
         "img": "./assets/img/gamepage.png",
-        "deployedLink": "https://boiling-tor-76152.herokuapp.com/",
+        "deployedLink": "\"https://boiling-tor-76152.herokuapp.com/\"",
         "repoLink": "https://github.com/JonesElliott/Memory-Game"
     },
     {
@@ -28,7 +28,7 @@
         "title": "Weather Dashboard",
         "description": "Weather dashboard utilizing OpenWeather API & jQuery to search by city.",
         "img": "./assets/img/weather-dashboard-3.png",
-        "deployedLink": "https://joneselliott.github.io/Weather-Dashboard/",
+        "deployedLink": "\"https://joneselliott.github.io/Weather-Dashboard/\"",
         "repoLink": "https://github.com/JonesElliott/Weather-Dashboard"
     },
     {
