@@ -11,7 +11,9 @@ export function Work({ children }) {
   );
 }
 
-export function Projects({ data: { img, hrefDeployed, hrefRepo, description, title }}) { 
+export function Projects({ data: { img, deployedLink, repoLink, description, title }}) { 
+  console.log('Deployed: ' + deployedLink);
+  console.log('Repo: ' + repoLink);
 
   return (
     <li className="list-group-item">
@@ -23,8 +25,8 @@ export function Projects({ data: { img, hrefDeployed, hrefRepo, description, tit
             <p>
               {description}
             </p>
-            <a className="deployed-link" target="_blank" href={'\"' + hrefDeployed + '\"'}>See it work!</a>
-            <a className="repo-link" target="_blank" href={ hrefRepo }>See the code</a>
+            <a className="deployed-link" target="_blank" href={ deployedLink }>See it work!</a>
+            <a className="repo-link" target="_blank" href={ repoLink }>See the code</a>
           </Col>
         </Row>
       </Container>
