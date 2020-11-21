@@ -102,4 +102,4 @@
         buttons[i].disabled = true;
       }
     }
-  })();
+})();
