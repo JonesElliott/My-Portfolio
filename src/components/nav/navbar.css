@@ -1,11 +1,9 @@
 nav.sticky {
+    z-index: 1;
+    background-color: ;
     position: fixed;
-    /* position: -webkit-sticky; */
-    /* z-index: 0; */
-    /* position: sticky; */
-    margin-top: 25vh;
+    margin-top: 8vh;
     top: 0;
-    /* background-color: white; */
     padding: 45px;
     font-size: 20px;
     float: left;
@@ -24,4 +22,32 @@ nav.sticky {
 
 a {
     text-decoration: none;
+}
+
+@media (min-width:1025px) {
+    .navbar-brand{
+        display: none;
+    }
+}
+
+.navbar-start{
+    flex-grow: 1;
+    justify-content: center;
+    text-align: center;
+}
+
+@media screen and (max-width: 1024px){
+    #logo{
+        display: none;
+    }
+    .force-center{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: x-large;
+    }
+    .navbar-end{
+        display: flex;
+        justify-content: center;
+    }
 }

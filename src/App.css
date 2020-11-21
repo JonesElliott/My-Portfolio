@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+@media (min-width:1025px) {
+  .navbar-brand{
+      display: none;
+  }
+}
+
+.navbar-start{
+  flex-grow: 1;
+  justify-content: center;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px){
+  #logo{
+      display: none;
+  }
+  .force-center{
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: x-large;
+  }
+  .navbar-end{
+      display: flex;
+      justify-content: center;
+  }
+}

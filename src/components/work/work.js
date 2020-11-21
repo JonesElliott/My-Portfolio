@@ -23,18 +23,10 @@ export function Projects({ data: { img, hrefDeployed, hrefRepo, description, tit
             <p>
               {description}
             </p>
-            <a
-              rel="noreferrer noopener"
-              target="_blank"
-              href={hrefDeployed}
-            >
+            <a className="deployed-link" rel="noreferrer noopener" target="_blank" href={hrefDeployed}>
               See it work!
             </a>
-            <a
-              rel="noreferrer noopener"
-              target="_blank"
-              href={hrefRepo}
-            >
+            <a className="repo-link" rel="noreferrer noopener" target="_blank" href={hrefRepo}>
               See the code
             </a>
           </Col>

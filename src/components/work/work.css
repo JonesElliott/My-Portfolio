@@ -1,5 +1,6 @@
 .work-container {
-    margin-top: 50vh;
+    background-color: unset;
+    margin-top: 10vh;
 }
 
 .work-title {
@@ -14,4 +15,12 @@
     list-style-type: none;
     margin-bottom: 10%;
     padding-right: 40px; /*  This is to offeset whatever is giving this a padding-inline-start value of 40px  */
+}
+
+.deployed-link {
+
+}
+
+.repo-link {
+    
 }
