@@ -1,5 +1,5 @@
 # My Portfolio
-[Deployed Site](https://joneselliott.github.io/MyPortfolio/)
+[Deployed Site](https://joneselliott.github.io/react-portfolio/)
 
 ![Followers badge](https://img.shields.io/github/followers/JonesElliott?label=Followers&style=social) ![MIT license badge](https://img.shields.io/badge/License-MIT-green) ![Potato Code badge](https://img.shields.io/badge/Contains-Potato%20Code-blue)
 
