@@ -1,6 +1,6 @@
 .work-container {
     background-color: unset;
-    margin-top: 10vh;
+    margin-top: 5%;
 }
 
 .work-title {
@@ -15,6 +15,34 @@
     list-style-type: none;
     margin-bottom: 10%;
     padding-right: 40px; /*  This is to offeset whatever is giving this a padding-inline-start value of 40px  */
+}
+
+.project-image {
+    width: 500px;
+}
+
+.description-text {
+    font-size: larger;
+    padding-bottom: 15px;
+}
+
+.link-button {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    /* width: 100%; */
+    background:#56aee1;
+    border-radius:5px;
+    border:0;
+    cursor:pointer;
+    color:white;
+    font-size:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    transition: all 0.3s;
+    margin-top:-4px;
+    font-weight:700;
+}
+.linkl-button:hover {
+    background:#4977cc; 
 }
 
 .deployed-link {

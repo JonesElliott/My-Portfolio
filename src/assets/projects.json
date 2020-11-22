@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Nom-Burger",
         "description": "Burger eating app created with Node, Express, MySQL, and Handlebars.",
-        "img": "./assets/img/nom-burger.png",
+        "img": "./react-portfolio/assets/img/nom-burger.png",
         "deployedLink": "https://nameless-savannah-00585.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Nom-Burger"
     },
@@ -11,7 +11,7 @@
         "id": "2",
         "title": "Memory Game",
         "description": "Memory Game built using Node, Express, MySQL, and Handlebars.",
-        "img": "./assets/img/gamepage.png",
+        "img": "./react-portfolio/assets/img/gamepage.png",
         "deployedLink": "https://boiling-tor-76152.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Memory-Game"
     },
@@ -19,7 +19,7 @@
         "id": "3",
         "title": "Note Taker",
         "description": "Note taking application produced with Node & Express.",
-        "img": "./assets/img/home-example.png",
+        "img": "./react-portfolio/assets/img/home-example.png",
         "deployedLink": "https://tranquil-atoll-93014.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Note-Taker"
     },
@@ -27,7 +27,7 @@
         "id": "4",
         "title": "Weather Dashboard",
         "description": "Weather dashboard utilizing OpenWeather API & jQuery to search by city.",
-        "img": "./assets/img/weather-dashboard-3.png",
+        "img": "./react-portfolio/assets/img/weather-dashboard-3.png",
         "deployedLink": "https://joneselliott.github.io/Weather-Dashboard/",
         "repoLink": "https://github.com/JonesElliott/Weather-Dashboard"
     },
@@ -35,7 +35,7 @@
         "id": "5",
         "title": "Day Planner",
         "description": "Day Planner built with jQuery & utilizing the Moment.js library for time information.",
-        "img": "./assets/img/time-update.png",
+        "img": "./react-portfolio/assets/img/time-update.png",
         "deployedLink": "https://joneselliott.github.io/Day-Planner/",
         "repoLink": "https://github.com/JonesElliott/Day-Planner"
     },
@@ -43,7 +43,7 @@
         "id": "6",
         "title": "Workout Tracker",
         "description": "A fitness tracking application utilizing Express & MongoDB with Mongoose.",
-        "img": "./assets/img/dashboard.png",
+        "img": "./react-portfolio/assets/img/dashboard.png",
         "deployedLink": "https://murmuring-spire-59899.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Workout-Tracker"
     }
