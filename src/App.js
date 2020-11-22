@@ -14,7 +14,7 @@ function App() {
     data: json
   }
 
-  console.log(projects.data);
+  // console.log(projects.data);
 
   return (
     <div className="App">
