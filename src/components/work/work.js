@@ -12,8 +12,6 @@ export function Work({ children }) {
 }
 
 export function Projects({ data: { img, deployedLink, repoLink, description, title }}) { 
-  console.log('Deployed: ' + deployedLink);
-  console.log('Repo: ' + repoLink);
 
   return (
     <li className="list-group-item">
