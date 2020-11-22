@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Nom-Burger",
         "description": "Burger eating app created with Node, Express, MySQL, and Handlebars.",
-        "img": "./assets/img/nom-burger1.PNG",
+        "img": "./assets/img/nom-burger1.png",
         "deployedLink": "https://nameless-savannah-00585.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Nom-Burger"
     },
