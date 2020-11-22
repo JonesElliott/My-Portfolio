@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Nom-Burger",
         "description": "Burger eating app created with Node, Express, MySQL, and Handlebars.",
-        "img": "./assets/img/nom-burger.png",
+        "img": "./assets/img/nom-burger1.PNG",
         "deployedLink": "https://nameless-savannah-00585.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Nom-Burger"
     },
@@ -19,7 +19,7 @@
         "id": "3",
         "title": "Note Taker",
         "description": "Note taking application produced with Node & Express.",
-        "img": "./assets/img/home-example.png",
+        "img": "./assets/img/home-example.PNG",
         "deployedLink": "https://tranquil-atoll-93014.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Note-Taker"
     },
@@ -27,7 +27,7 @@
         "id": "4",
         "title": "Weather Dashboard",
         "description": "Weather dashboard utilizing OpenWeather API & jQuery to search by city.",
-        "img": "./assets/img/weather-dashboard-3.png",
+        "img": "./assets/img/weather-dashboard-3.PNG",
         "deployedLink": "https://joneselliott.github.io/Weather-Dashboard/",
         "repoLink": "https://github.com/JonesElliott/Weather-Dashboard"
     },
@@ -35,7 +35,7 @@
         "id": "5",
         "title": "Day Planner",
         "description": "Day Planner built with jQuery & utilizing the Moment.js library for time information.",
-        "img": "./assets/img/time-update.png",
+        "img": "./assets/img/time-update.PNG",
         "deployedLink": "https://joneselliott.github.io/Day-Planner/",
         "repoLink": "https://github.com/JonesElliott/Day-Planner"
     },
@@ -43,7 +43,7 @@
         "id": "6",
         "title": "Workout Tracker",
         "description": "A fitness tracking application utilizing Express & MongoDB with Mongoose.",
-        "img": "./assets/img/dashboard.png",
+        "img": "./assets/img/dashboard.PNG",
         "deployedLink": "https://murmuring-spire-59899.herokuapp.com/",
         "repoLink": "https://github.com/JonesElliott/Workout-Tracker"
     }
